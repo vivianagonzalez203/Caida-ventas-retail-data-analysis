@@ -1,1 +1,1 @@
-# Identificaci-n-de-Causas-de-Ca-da-en-Ventas-y-Estrategias-Basadas-en-Datos-Retail-Dataset
+# Identificación de causas de caída en ventas y estrategias basadas en datos-Retail-Dataset
